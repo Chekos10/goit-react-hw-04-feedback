@@ -60,10 +60,3 @@ export const Feedback = () => {
     </div>
   );
 };
-
-// export class Feedback extends Component {
-//   state = {
-//     good: 0,
-//     neutral: 0,
-//     bad: 0,
-//   };
